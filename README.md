@@ -18,4 +18,4 @@ Run `install.bat` then `start.bat`
 - `npm i` -
 
 
-And to run it using - `node GUFinder.js` 
+And then run it using - `node GUFinder.js` 
