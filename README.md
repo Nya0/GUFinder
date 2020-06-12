@@ -8,7 +8,7 @@ A Javascript app that will look for any available 4 letters username in github a
 
 Install Nodejs and npm
 
-Run `install.bat` then `start.bat
+Run `install.bat` then `start.bat`
 
 ### Linux
 
