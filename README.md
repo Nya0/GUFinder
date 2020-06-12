@@ -2,15 +2,15 @@
 A Javascript app that will look for any available 4 letters username in github and save it in a file 
 
 
-##Usage
 
-###Windows:
+
+### Windows:
 
 Install Nodejs and npm
 
 Run `install.bat` then `start.bat
 
-###Linux
+### Linux
 
 `
 1 - `sudo apt install nodejs && apt install npm`
