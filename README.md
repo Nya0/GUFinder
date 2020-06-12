@@ -13,7 +13,7 @@ Run `install.bat` then `start.bat
 ### Linux
 
 `
-`sudo apt install nodejs && apt install npm`
+- `sudo apt install nodejs && apt install npm` -
 
 
-And to run it `node GUFinder.js`
+And to run it - `node GUFinder.js` -
