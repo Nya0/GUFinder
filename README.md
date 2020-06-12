@@ -14,8 +14,6 @@ Run `install.bat` then `start.bat
 
 `
 `sudo apt install nodejs && apt install npm`
-`git clone https://github.com/Nya0/GUFinder`
-` cd GUFinder/`
-`npm i`
+
 
 And to run it `node GUFinder.js`
