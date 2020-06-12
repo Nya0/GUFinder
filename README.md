@@ -11,7 +11,6 @@ Install Nodejs and npm
 Run `install.bat` then `start.bat
 
 ### Linux
-
 `
 - `sudo apt install nodejs && apt install npm` -
 - `git clone https://github.com/Nya0/GUFinder` -
