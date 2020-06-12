@@ -12,10 +12,10 @@ Run `install.bat` then `start.bat`
 
 ### Linux:
 
-1- `sudo apt install nodejs && apt install npm` 
-2- `git clone https://github.com/Nya0/GUFinder` 
-3- `cd GUFinder/` 
-4- `npm i` 
+- `sudo apt install nodejs && apt install npm` 
+- `git clone https://github.com/Nya0/GUFinder` 
+- `cd GUFinder/` 
+- `npm i` 
 
 
 And then run it using - `node GUFinder.js` 
